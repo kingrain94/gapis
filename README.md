@@ -1,6 +1,6 @@
 # gapis
 
-## Example usage:
+## Example usage
 
 ```
 go build -o go-api-demo *.go
